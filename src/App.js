@@ -6,14 +6,17 @@ import Aula04 from './components/aula04/aula04'
 import Aula05 from './components/aula05/aula05'
 import Aula06 from './components/aula06/aula06'
 import Aula07 from './components/aula07/aula07'
+import Aula08 from './components/aula08/aula08'
 
 function App() {
   return (
     <div className="App">
       <table>
         <thead>
-          <th><td>Curso de React - Matheus Battisti - Hora de Codar
-          </td></th>
+          <tr>
+            <th colSpan="3">Curso de React - Matheus Battisti - Hora de Codar
+            </th>
+          </tr>
         </thead>
         <tbody>
           <tr>
@@ -26,7 +29,10 @@ function App() {
             <td><Aula06 /></td>
             <td><Aula07 /></td>
           </tr>
-          <tr>            
+          <tr>
+            <td><Aula08/></td>
+            <td></td>
+            <td></td>
           </tr>
         </tbody>
       </table>      
