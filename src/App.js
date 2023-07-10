@@ -7,6 +7,7 @@ import Aula05 from './components/aula05/aula05'
 import Aula06 from './components/aula06/aula06'
 import Aula07 from './components/aula07/aula07'
 import Aula08 from './components/aula08/aula08'
+import Aula09 from './components/aula09/aula09'
 
 function App() {
   return (
@@ -31,7 +32,7 @@ function App() {
           </tr>
           <tr>
             <td><Aula08/></td>
-            <td></td>
+            <td><Aula09/></td>
             <td></td>
           </tr>
         </tbody>
