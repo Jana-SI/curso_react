@@ -8,6 +8,7 @@ import Aula06 from './components/aula06/aula06'
 import Aula07 from './components/aula07/aula07'
 import Aula08 from './components/aula08/aula08'
 import Aula09 from './components/aula09/aula09'
+import Aula10 from './components/aula10/aula10'
 
 function App() {
   return (
@@ -31,9 +32,9 @@ function App() {
             <td><Aula07 /></td>
           </tr>
           <tr>
-            <td><Aula08/></td>
-            <td><Aula09/></td>
-            <td></td>
+            <td><Aula08 /></td>
+            <td><Aula09 /></td>
+            <td><Aula10 /></td>
           </tr>
         </tbody>
       </table>      
