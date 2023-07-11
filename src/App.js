@@ -14,6 +14,7 @@ import Aula12 from './components/aula12/aula12'
 import Aula13 from './components/aula13/aula13'
 import Aula14 from './components/aula14/aula14'
 import Aula15 from './components/aula15/aula15'
+import Aula16 from './components/aula16/aula16';
 
 function App() {
   return (
@@ -49,6 +50,7 @@ function App() {
           <tr>
             <td><Aula14 /></td>
             <td><Aula15 /></td>
+            <td><Aula16 /></td>
           </tr>
         </tbody>
       </table>      
